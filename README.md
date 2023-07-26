@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to My Github 
 
 - 🔭 I’m currently working on Spotifest, my Portfolio Website, and Leetcode Problems
 - 🌱 I’m currently learning Langchain, Svelte, and Next.js
