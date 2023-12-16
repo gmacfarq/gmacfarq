@@ -1,6 +1,6 @@
 ### Welcome to My Github 
 
-- 🔭 I’m currently working on PEEL, Festy, my Portfolio Website, and Leetcode Problems
+- 🔭 I’m currently working on PEEL, Festy/Spotifest, and Leetcode Problems
 - 🌱 I’m currently learning Langchain, Svelte, and Next.js
 - 👯 I’m looking to collaborate on meaningful projects!
 - 📫 How to reach me: gmacfarquhar57@gmail.com
